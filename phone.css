@@ -1,0 +1,1015 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+/*----------------------------------------------------- CONTAINER ---------------------------------------------------------------*/
+
+.container1{
+    position: relative;
+    width: 100%;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+}
+.container1-0{
+    display: flex;
+    position: absolute;
+    left: -26px;
+    top: -2rem;
+    align-items: center;
+}
+.container2{
+    position: relative;
+    width: 100%;
+    top: 3px;
+
+}
+.container2-1 img{
+    width: 40rem;
+    position: absolute;
+    left: 0rem;
+    top: 175px;
+}
+.container2-1 p{
+    left: 3rem;
+    top: 37rem;
+    text-align: center;
+    font-size: 21px;
+    width: 34rem;
+    position: absolute;
+}
+.container3{
+    width: 100%;
+    position: relative;
+    top: 3px;
+    height: 84rem;
+    align-items: center;
+}
+.container3 h1{
+    position: absolute;
+    left: 1rem;
+    top: 14px;
+    font-size: 3.5rem;
+ }
+.container3-1{
+    flex-direction: column;
+    position: absolute;
+    top: -132px;
+    left: 1.4rem;
+}
+.container4{
+    width: 100%;
+    position: relative;
+    top: 3rem;
+    height: 220rem;
+
+  }
+  .container4 h1{
+    left: 1rem;
+    top: 5px;
+    font-size: 2.5rem;
+  }
+  
+
+.container4-1{
+    flex-direction: column;
+    position: relative;
+   left: 0rem;
+    align-items: center;
+}
+.container4-2{
+    flex-direction: column;
+    position: absolute;
+    left: 0rem;
+    top: -5.5rem;
+    align-items: center;
+}
+.container5{
+    width: 100%;
+    position: relative;
+    top: 7rem;
+    height: 220rem;
+}
+.container5 h1{
+    left: 1rem;
+    top: 5px;
+    font-size: 2.5rem;
+}
+.container5-1{
+    flex-direction: column;
+    position: relative;
+   left: 0rem;
+   top: -4rem;
+    align-items: center;
+
+
+  }
+  .container5-2{
+    flex-direction: column;
+    position: absolute;
+    left: 0rem;
+    top: 4rem;
+    align-items: center;
+}
+.container6{
+    position: relative;
+    top: 11rem;
+    left: 0rem;
+    flex-direction: column;
+    width: 100%;
+    height: 125rem;
+
+}
+.container6 h3{
+    width: 35rem;
+    position: absolute;
+    text-indent: 13rem;
+    left: 2.7rem;
+    font-size: 25px;
+}
+.container6-1 {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}
+.container6 p{
+    left: 1rem;
+    font-size: 22px;
+    width: 11rem;
+}
+.container7{
+    position: relative;
+    width: 100%;
+    top: 14rem;
+    height: 87rem;
+}
+.container7 h3{
+    width: 35rem;
+    position: absolute;
+    text-indent: 13rem;
+    left: 2.7rem;
+    font-size: 25px;
+}
+.container7 p{
+    left: 1rem;
+    font-size: 22px;
+    width: 11rem;
+  }
+  .container8 {
+    width: 100%;
+    display: flex;
+    height: 8rem;
+    position: relative;
+    top: 15rem;
+}
+.container8 h1{
+    top: -3px;
+    position: absolute;
+    left: -44rem;
+    font-size: 3rem;
+}
+.container9{
+    position: relative;
+    width: 100%;
+    height: 216rem;
+    top: 17rem;
+}
+.container9 h1{
+    top: -3px;
+    position: absolute;
+    left: -44rem;
+    font-size: 3rem;
+}
+.container9-1 {
+    display: flex;
+    position: absolute;
+    top: -3rem;
+}
+.container10{
+    width: 100%;
+    height: 17rem;
+    align-items: center;
+    position: relative;
+    top: 18rem;
+    padding: -11px;
+}
+.container10-1{
+    width: 9.5rem;
+    left: 0rem;
+    height: 13rem;
+    position: absolute;
+   
+}
+.container10-1 img{
+    width: 4.5rem;
+    left: -4px;
+    height: 5rem;
+    position: absolute;
+}
+.container10-1 p{
+    font-size: 1rem;
+    left: 52px;
+}
+.container10-2{
+    width: 10rem;
+    position: absolute;
+    height: 13rem;
+    left: 9.5rem;
+    text-align: center;
+    align-items: center;
+}
+.container10-2 p{
+   font-size: 11px; 
+}
+.container10-3{
+    width: 10rem;
+    height: 13rem;
+    position: absolute;
+    top: 28px;
+    left: 19.5rem;
+    align-items: center;
+}
+.container10-3 p{
+    font-size: 11px;
+}
+.container11{
+    width: 100%;
+    position: relative;
+    top: 19rem;
+    height: 2rem;
+    padding: -11px;
+}
+
+
+
+/*--------------------------------------------------------- NAVBAR ----------------------------------------------------------------*/
+
+.navbar{
+    left: 7px;
+    top: 29px;
+}
+.nav-link{
+    display: flex;
+    list-style: none;
+    
+}
+.nav-link li a{
+    text-decoration: none;
+    margin: 7px;
+    position: relative;
+    font-size: 14px;
+    color: gray;
+}
+#en{
+    position: absolute;
+    left: 38rem;
+    top: -3px;
+}
+
+.title{
+    font-size: 8px;
+    position: absolute;
+    left: 15.5rem;
+    top: -0.3rem;
+    width: 7rem;
+    
+}
+.title h2{
+    font-size: 1.2rem;
+}
+
+.navbar2{
+    position: absolute;
+    top: 89px;
+    left: 20px;
+}
+.nav-link1{
+    position: absolute;
+    top: 23px;
+    width: 23rem;
+    box-sizing: border-box;
+    align-items: center;
+    left: 21px;
+
+}
+.nav-link1 li a{
+    margin: 1px;
+    font-size: 10px;
+    padding: 1px;
+}
+.logo img{
+    width: 58px;
+    
+}
+
+#logo{
+    left:32.5rem;
+    top: 21px;
+    align-items: center;
+    position: absolute;
+}
+#logo img{
+    margin: 1px;
+}
+#search{
+    width: 19px;
+}
+#heart{
+    width: 34px;
+    top: -1px;
+}
+
+#balance{
+    width: 28px;
+}
+#trolley{
+    width: 29px;
+    top: 2px;
+}
+#person{
+    width: 22px;
+    top: 1px;
+}
+
+
+
+
+
+#heading1{
+    position: absolute;
+    left: 22rem;
+    width: 17rem;
+    font-size: 4rem;
+}
+
+#heading2{
+    position: absolute;
+    left: 1rem;
+    top: 68px;
+    display: inline;
+    width: 27rem;
+    font-size: 4rem;
+}
+
+
+#shop{
+    position: absolute;
+    left: 34.5rem;
+    top: 46px;
+    width: 6rem;
+    font-size: 16px;
+}
+
+.paint-type{
+    padding: 5rem;
+    top: 260px;
+    left: -61px;
+    height: 2rem;
+    width: 8.5rem;
+    margin: 10px;
+  }
+  .paint-type p{
+    font-size: 2.5rem;
+    width: 25rem;
+    left: -55px;
+    top: 16px;
+  }
+  #interior{
+    position: absolute;
+    left: 4.7rem;
+  }
+  #exterior{
+    position: absolute;
+    left: 4.7rem;
+    top: 42rem; 
+  }
+  #pro{
+    position: absolute;
+    left: 4.7rem;
+    top: 68rem;
+  }
+
+
+
+
+
+  /*--------------------------------------------------------  PAINTS  ------------------------------------------------------------*/
+  #paint1{
+    width: 26rem;
+    position: absolute;
+    left: 16rem;
+    top: -9px;
+    
+}    
+#paint2{
+    position: absolute;
+    top: -51px;
+    left: -13px;
+    width: 23rem;
+}
+  #paint3{
+    left: 16.3rem;
+    top: 0.5rem;
+    width: 13rem;
+  }
+  #paint4{
+    left: 13rem;
+    top: 73px;
+    width: 12rem;
+  }
+  #paint5{
+    left: 14.9rem;
+    width: 17rem
+  }
+  #paint6{
+    position: absolute;
+    top: -75px;
+    left: 11px;
+    width: 19rem;
+    height: 17rem;
+}
+#paint8{
+    position: absolute;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint9{
+    position: absolute;
+    top: 51rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint10{
+    position: absolute;
+    top: 86rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint11{
+    position: absolute;
+    top: 121rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint12{
+    position: absolute;
+    top: 156rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint13{
+    position: absolute;
+    top: 191rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint19{
+    top: -78px;
+    left: -19px;
+    width: 20rem;
+}
+#paint20{
+    width: 39.6rem;
+    position: absolute;
+    top: 148px;
+    left: 3.3rem;
+    height: 42rem;
+    z-index: -1;
+  }
+  #paint21{
+    width: 39.5rem;
+    position: absolute;
+    top: 71rem;
+    left: 0rem;
+}
+  
+  #paint22{
+    position: absolute;
+    top: -79px;
+    left: 22rem;
+    width: 14rem;
+    z-index: -1;
+}
+#paint23{
+    width: 39rem;
+    height: 34.5rem;
+    position: absolute;
+    top: 51.5rem;
+    left: 3.8rem;
+}
+  #paint24{
+    width: 11rem;
+    height: 7rem;
+    position: absolute;
+    top: -2rem;
+    left: 26px;
+}
+#paint25{
+    width: 11rem;
+    height: 7rem;
+    position: absolute;
+    top: -2rem;
+    left: 26px;
+}
+#paint26{
+    position: absolute;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint27{
+    position: absolute;
+    top: 47rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint28{
+    position: absolute;
+    top: 81.9rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+
+}
+#paint29{
+    position: absolute;
+    top: 109.2rem;   
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+
+#paint30{
+    position: absolute;
+    top: 146rem;
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+#paint31{
+    position: absolute;
+    top: 181rem;   
+    left: 65px;
+    width: 34rem;
+    height: 30rem;
+}
+ 
+ 
+  
+  .container-img{
+    display: flex;
+    flex-direction: column;
+    
+  }
+ 
+.room{
+    width: 21rem;
+    height: 22rem;
+}
+.container-img p{
+    width: 19.5rem;
+    font-size: 1rem;
+    top: 468px;
+    left: -61px;
+  }
+  .like{
+    width: 58px;
+    top: 256px;
+    left: 383px;
+}
+
+/*------------------------------------------------------ VIEW--------------------------------------------------------------------------- */
+.view1{
+    position: absolute;
+    top: 46px;
+    left: 34.5rem;
+    width: 6rem;
+    font-size: 16px;
+   font-weight: 400;
+}
+.view2{
+    position: absolute;
+    top: 28px;
+    left: 34.5rem;
+    width: 6rem;
+    font-size: 16px;
+   font-weight: 400;
+}
+.view3{
+    position: absolute;
+    top: 15px;
+    left: 34.5rem;
+    width: 6rem;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/*---------------------------------------------------------------------------------------------------------------------------*/
+
+.paint26 img{
+    position: absolute;
+    top: 10rem;
+    width: 38.9rem;
+    height: 37rem;
+    left: 0rem;
+   
+  }
+  .paint27 img {
+    position: absolute;
+    top: 56rem;
+    width: 38.9rem;
+    height: 26rem;
+    left: 4rem;
+    
+}
+.paint28 img {
+    position: absolute;
+    top: 89rem;
+    width: 38.9rem;
+    height: 26rem;
+    left: 0rem;
+   
+}
+.paint29 img {
+    position: absolute;
+    top: 122rem;
+    width: 38.9rem;
+    height: 26rem;
+    left: 4rem;
+}
+.paint30 img {
+    position: absolute;
+    top: 155rem;
+    width: 38.9rem;
+    height: 26rem;
+    left: 0rem;
+   
+
+}
+.paint31 img {
+    position: absolute;
+    top: 188rem;
+    width: 38.9rem;
+    height: 26rem;
+    left: 4rem;
+}
+  .paint26 p {
+    position: absolute;
+    top: 48rem;
+    width: 32rem;
+    text-align: center;
+    left: 3rem;
+    font-size: 1.3rem;
+}
+.paint27 p {
+    position: absolute;
+    top: 83rem;
+    width: 32rem;
+    text-align: center;
+    left: 5rem;
+    font-size: 1.3rem;
+}
+.paint28 p {
+    position: absolute;
+    top: 116rem;
+    width: 32rem;
+    text-align: center;
+    left: 5rem;
+    font-size: 1.3rem;
+}
+.paint29 p {
+    position: absolute;
+    top:149rem;
+    width: 32rem;
+    text-align: center;
+    left: 5rem;
+    font-size: 1.3rem;
+}
+.paint30 p {
+    position: absolute;
+    top:182rem;
+    width: 32rem;
+    text-align: center;
+    left: 5rem;
+    font-size: 1.3rem;
+}
+.paint31 p {
+    position: absolute;
+    top:215rem;
+    width: 32rem;
+    text-align: center;
+    left: 5rem;
+    font-size: 1.3rem;
+}
+
+
+/*----------------------------------------------------- PARA ---------------------------------------------------------------------------*/
+  #para1{
+    top: 56rem;
+    left: 1rem;
+    font-size: 19px;
+    width: 7rem;
+  }
+  #para2{
+      position: absolute;
+    top: 55.5rem;
+    left: 2.5rem;
+    width: 36.5rem;
+    height: 9rem;
+    font-size: 1.5rem;
+    text-indent: 210px;
+    
+  }
+  #para3{
+    position: absolute;
+    left: 2.5rem;
+    width: 36.5rem;
+    height: 9rem;
+    font-size: 1.5rem;
+    text-indent: 210px;
+  }
+  #para5{
+    font-size: 17px;
+}
+#para6{
+    font-size: 17px;
+}
+  #para8{
+    position: absolute;
+    left: 44px;
+    width: 11rem;
+    top: 92px;
+    font-size: 7px;
+}
+#para9{
+    position: absolute;
+    font-size: 7px;
+    left: 65px;
+}
+#para13{
+    top: 46.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para14{
+    top: 81.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para15{
+    top: 116.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para16{
+    top: 151.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para17{
+    top: 186.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para18{
+    top: 221.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para19{
+    top: 42rem;
+    width: 32.4rem;
+    font-size: 1rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para20{
+    top: 77.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para21{
+    top: 112.3rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para22{
+    top:139.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para23{
+    top: 176.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#para24{
+    top: 211.5rem;
+    width: 32.4rem;
+    font-size: 1.2rem;
+    left: 71px;
+    text-align: center;
+    position: absolute;
+}
+#payment1{
+    width: 91px;
+    position: absolute;
+    left: 298px;
+    top: 0.2rem;
+}
+#link1{
+    font-size: 7px;
+    left: 30.5rem;
+    width: 5rem;
+    position: absolute;
+}
+#link2{
+    position: absolute;
+    font-size: 7px;
+    width: 5rem;
+    left: 35.5rem;
+}
+/*-------------------------------------------------------  BUTTON  -----------------------------------------------------------------------*/
+#btn1{
+    left: 11rem;
+    top: 45rem;
+    font-size: 19px;
+    width: 19rem;
+    padding: 20px;
+    position: absolute;
+}
+  #btn2{
+    left: 14rem;
+    top: 66rem;
+    font-size: 19px;
+    width: 19rem;
+    padding: 20px;
+    position: absolute;
+  }
+  #btn3{
+    left: 11.5rem;
+    top: 45rem;
+    font-size: 19px;
+    width: 19rem;
+    padding: 20px;
+    position: absolute;
+  }
+  /*------------------------------------------------ HR----------------------------------------------------------------------*/
+  #hr1{
+    position: absolute;
+    left: 32rem;
+    top: 17rem;
+    width: 4rem;
+}
+  #hr2{
+    width: 41.5rem;
+    top: 54rem;
+    left: 0.7rem;
+   
+  }
+  #hr3{
+    width: 41.4rem;
+    top: 12rem;
+    left: 0.7rem;
+  } 
+  #hr4{
+    width: 41.4rem;
+    top: 16rem;
+    left: 0.7rem;
+  }
+  
+
+ 
+#logo2 {
+    display: flex;
+    position: absolute;
+}
+#logo2 img {
+    width: 97px;
+    height: 52px;
+    left: 5px;
+    top: 42px;
+    margin: 15px;
+}
+
+
+#cloud{
+    width: 31px;
+    height: 31px;
+    top: 84px;
+    left: 16px;
+}
+
+
+/*------------------------------------------------------ -------- HEART  ---------------------------------------------------------------*/
+#heart1{
+    position: absolute;
+    top: 16rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart2{
+    position: absolute;
+    left: 32rem;
+    top: 51rem;
+    width: 4rem;
+}
+#heart3{
+    position: absolute;
+    top: 86rem;
+    left: 32rem;
+    width: 4rem;
+}
+
+#heart4{
+    position: absolute;
+    top: 121rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart5{
+    position: absolute;
+    top: 156rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart6{
+    position: absolute;
+    top: 191rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart7{
+    position: absolute;
+    top: 11.5rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart8{
+    position: absolute;
+    top: 47.5rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart9{
+    position: absolute;
+    top: 82.5rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart10{
+    top: 109rem;
+    position: absolute;
+    left: 32rem;
+    width: 4rem;
+}
+#heart11{
+    position: absolute;
+    top: 146rem;
+    left: 32rem;
+    width: 4rem;
+}
+#heart12{
+    position: absolute;
+    top: 181rem;
+    left: 32rem;
+    width: 4rem;
+}
